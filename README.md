@@ -1,4 +1,4 @@
-# praktiki
+### Internship
 
 Group meetings every Monday at 10:30
 
@@ -23,7 +23,7 @@ Group meetings every Monday at 10:30
   </tr>
   <tr>
       <td> 3 </td>
-      <td>Research in Unsupervised ML, reading papers and code about Unsupervised Image Classification // 
+      <td>Research in Unsupervised ML, reading papers and code about Unsupervised Image Classification // </br>
              Starting learning wordpress using HTML/CSS/JS</td>
   </tr>
   
