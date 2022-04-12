@@ -26,4 +26,7 @@ Group meetings every Monday at 10:30
       <td>Research in Unsupervised ML, reading papers and code about Unsupervised Image Classification // </br>
              Starting learning wordpress using HTML/CSS/JS</td>
   </tr>
-  
+   <tr>
+      <td> 4 </td>
+      <td>Project assigned, scanning photos platform using Vue and WordPress</td>
+  </tr>
