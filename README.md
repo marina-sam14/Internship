@@ -28,5 +28,6 @@ Group meetings every Monday at 10:30
   </tr>
    <tr>
       <td> 4 </td>
-      <td>Project assigned, scanning photos platform using Vue and WordPress</td>
+      <td>Project assigned, scanning photos platform using Vue and WordPress </br>
+          Starting Vue training </td>
   </tr>
