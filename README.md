@@ -1,6 +1,6 @@
 ### Internship
 
-Group meetings every Monday at 10:30
+Group meetings every Monday at 10:30 // 18 people
 
 <!-- ## Weeks                      
 1             Meeting each others, Access to the 7LDevelopment / Shopper Shopify App </br>
