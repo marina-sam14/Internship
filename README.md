@@ -32,3 +32,8 @@ Group meetings every Monday at 10:30 // 18 people
           Starting Vue training </br>
           Assigned with Internal Project based on php and wordpress pre-created components </td>
   </tr>
+  
+  <tr>
+      <td> 5 </td>
+      <td> Starting durting my hands with wordpress and local, custom HTML // Research for Tailwuid CSS </td>
+  </tr>
