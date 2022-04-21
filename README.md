@@ -35,5 +35,6 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 5 </td>
-      <td> Easy week due to Big Week // Starting durting my hands with wordpress and local, custom HTML // Research for Tailwuid CSS </td>
+      <td> Easy week due to Big Week </br>
+      Starting durting my hands with wordpress and local, custom HTML // Research for Tailwuid CSS </td>
   </tr>
