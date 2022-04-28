@@ -38,3 +38,8 @@ Group meetings every Monday at 10:30 // 18 people
       <td> Easy week due to Big Week </br>
       Starting durting my hands with wordpress and local, custom HTML // Research for Tailwuid CSS </td>
   </tr>
+  
+  <tr>
+      <td> 6 </td>
+      <td>Starting with Flutter</td>
+  </tr>
