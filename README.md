@@ -41,5 +41,5 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 6 </td>
-      <td>Starting with Flutter</td>
+      <td>Starting with Flutter // Studying code and watching tutorials </td>
   </tr>
