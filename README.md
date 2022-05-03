@@ -47,6 +47,6 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 7 </td>
-      <td> </td>
+      <td> End with Chat UI in Flutter </td>
   </tr>
 
