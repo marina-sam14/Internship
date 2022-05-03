@@ -41,5 +41,12 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 6 </td>
-      <td>Starting with Flutter // Studying code and watching tutorials </td>
+      <td>Starting with Flutter // Studying code and watching tutorials </br>
+      Writing my first programs based on Flutter codelab </td>
   </tr>
+  
+  <tr>
+      <td> 7 </td>
+      <td> </td>
+  </tr>
+
