@@ -52,6 +52,11 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 8 </td>
-      <td> Flutter Migration Done // Reading Medium articles about Flutter </td>
+      <td> Flutter Migration Done // Reading Medium articles about Flutter 3.0 </td>
+  </tr>
+  
+  <tr>
+      <td> 9 </td>
+      <td> Starting Migration to 3 </td>
   </tr>
 
