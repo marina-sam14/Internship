@@ -59,4 +59,9 @@ Group meetings every Monday at 10:30 // 18 people
       <td> 9 </td>
       <td> Ending Migration to 3 // Uplaoding to Testflight, waiting for feedback  </td>
   </tr>
+  
+  <tr>
+      <td> 10 </td>
+      <td>   </td>
+  </tr>
 
