@@ -62,7 +62,7 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 10 </td>
-      <td>  Merging my work in develop branch UwU, meetings for new projects, researxh on Flutter 3 </td>
+      <td>  Merging my work in develop branch UwU, meetings for new projects, research on Flutter 3 </td>
   </tr>
   
   <tr>
