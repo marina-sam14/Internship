@@ -69,4 +69,9 @@ Group meetings every Monday at 10:30 // 18 people
       <td> 11 </td>
       <td>  Testing an app which is migrated to Flutter 3 </td>
   </tr>
+  
+  <tr>
+      <td> 12 </td>
+      <td>   </td>
+  </tr>
 
