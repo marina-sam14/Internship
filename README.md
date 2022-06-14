@@ -74,4 +74,9 @@ Group meetings every Monday at 10:30 // 18 people
       <td> 12 </td>
       <td> Starting training in REACT and Next.js  </td>
   </tr>
+  
+   <tr>
+      <td> 13 </td>
+      <td> Whit Monday, Tuesday & Friday: Exams // Training in React  </td>
+  </tr>
 
