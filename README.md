@@ -81,7 +81,7 @@ Group meetings every Monday at 10:30 // 18 people
   </tr>
   
   <tr>
-      <td> 13 </td>
+      <td> 14 </td>
       <td> Training in React  </td>
   </tr>
 
