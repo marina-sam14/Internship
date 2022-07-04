@@ -89,4 +89,9 @@ Group meetings every Monday at 10:30 // 18 people
       <td> 15 </td>
       <td> Ending training in REACT </td>
   </tr>
+  
+  <tr>
+      <td> 16 </td>
+      <td> </td>
+  </tr>
 
