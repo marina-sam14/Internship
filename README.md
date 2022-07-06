@@ -92,6 +92,6 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 16 </td>
-      <td> </td>
+      <td> Starting with Nexudus // Ending exams </td>
   </tr>
 
