@@ -99,4 +99,9 @@ Group meetings every Monday at 10:30 // 18 people
       <td> 17 </td>
       <td> Creating some templates for Nexudus </td>
   </tr>
+  
+  <tr>
+      <td> 18 </td>
+      <td> COVID </td>
+  </tr>
 
