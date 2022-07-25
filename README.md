@@ -102,7 +102,11 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 18 </td>
-      <td> COVID // Thursday: nexudus and React again </td>
-     
+      <td> COVID // Thursday: nexudus and React again </td> 
+  </tr>
+  
+  <tr>
+      <td> 19 </td>
+      <td>  </td> 
   </tr>
 
