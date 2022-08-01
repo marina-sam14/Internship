@@ -109,4 +109,9 @@ Group meetings every Monday at 10:30 // 18 people
       <td> 19 </td>
       <td> Company Project Assigned (Nexudus Custom Displays) </td> 
   </tr>
+  
+  <tr>
+      <td> 19 </td>
+      <td> Nexudus templates for Company </td> 
+  </tr>
 
