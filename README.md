@@ -112,6 +112,6 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 20 </td>
-      <td> Nexudus templates for Company </td> 
+      <td> Nexudus pages for Company // Form </td> 
   </tr>
 
