@@ -117,6 +117,6 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 21 </td>
-      <td> Easy Week - August Days off </td> 
+      <td> Easy Week - August Days off </br> </td> 
   </tr>
 
