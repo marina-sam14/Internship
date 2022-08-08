@@ -114,4 +114,9 @@ Group meetings every Monday at 10:30 // 18 people
       <td> 20 </td>
       <td> Nexudus pages for Company // Form </td> 
   </tr>
+  
+  <tr>
+      <td> 21 </td>
+      <td> Easy Week - August Days off </td> 
+  </tr>
 
