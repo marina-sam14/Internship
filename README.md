@@ -119,4 +119,7 @@ Group meetings every Monday at 10:30 // 18 people
       <td> 21 </td>
       <td> Ending basic UI in Nexudus </td> 
   </tr>
-
+ <tr>
+      <td> 22 </td>
+      <td>  </td> 
+  </tr>
