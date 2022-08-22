@@ -124,3 +124,8 @@ Group meetings every Monday at 10:30 // 18 people
       <td> 15th of August, ending UI in Nexudus  </td> 
   </tr>
   
+  <tr>
+      <td> 23 </td>
+      <td>  </td> 
+  </tr>
+  
