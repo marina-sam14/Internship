@@ -126,6 +126,6 @@ Group meetings every Monday at 10:30 // 18 people
   
   <tr>
       <td> 23 </td>
-      <td>  </td> 
+      <td> Easy week, Nexudus is almost done locally waiting for deployment  </td> 
   </tr>
   
