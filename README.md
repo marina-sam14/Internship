@@ -131,6 +131,6 @@ Group meetings every Monday at 10:30 // 18 people
   
  <tr>
       <td> 24 </td>
-      <td>   </td> 
+      <td> Free time because of colleagues' days off || Research for Dart snd Flutter new versions  </td> 
   </tr>
   
