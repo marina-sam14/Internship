@@ -1,4 +1,4 @@
-### Internship
+### Internship @ [7LInternational](https://7linternational.com)
 
 Group meetings every Monday at 10:30 
 
