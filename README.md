@@ -2,7 +2,7 @@
 
 Group meetings every Monday at 10:30 
 
- ## Weeks                      
+               
 
 <table>
   <tr>
