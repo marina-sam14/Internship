@@ -2,11 +2,8 @@
 
 Group meetings every Monday at 10:30 
 
-<!-- ## Weeks                      
-1             Meeting each others, Access to the 7LDevelopment / Shopper Shopify App </br>
-2             Starting Udemy videos about Shopify, Access in Quarter Planning meetings </br>
-3             Research in Unsupervised ML, reading papers and code about Unsupervised Image Classification // 
-              Starting learning wordpress using HTML/CSS/JS -->
+ ## Weeks                      
+
 <table>
   <tr>
     <th>Weeks</th>
@@ -15,7 +12,7 @@ Group meetings every Monday at 10:30
   </tr>
     <tr>
       <td> 1 </td>
-      <td>Meeting each others, Access to the 7LDevelopment / Shopper Shopify App</td>
+      <td>Meeting each others, Access to the 7LDevelopment // Intoduction to Shopper Shopify App</td>
   </tr>
    <tr>
       <td> 2 </td>
@@ -57,7 +54,7 @@ Group meetings every Monday at 10:30
   
   <tr>
       <td> 9 </td>
-      <td> Ending Migration to 3 // Uplaoding to Testflight, waiting for feedback  </td>
+      <td>  Migration to 3  </td>
   </tr>
   
   <tr>
@@ -72,7 +69,7 @@ Group meetings every Monday at 10:30
   
   <tr>
       <td> 12 </td>
-      <td> Starting training in REACT and Next.js  </td>
+      <td> Starting Udemy tutorial in REACT and Next.js - German guy  </td>
   </tr>
   
    <tr>
@@ -82,12 +79,12 @@ Group meetings every Monday at 10:30
   
   <tr>
       <td> 14 </td>
-      <td> Training in React  </td>
+      <td>  Ending 1st part training in REACT  </td>
   </tr>
 
 <tr>
       <td> 15 </td>
-      <td> Ending training in REACT </td>
+      <td> Ending 2nd part training in REACT </td>
   </tr>
   
   <tr>
@@ -102,7 +99,7 @@ Group meetings every Monday at 10:30
   
   <tr>
       <td> 18 </td>
-      <td> COVID // Thursday: nexudus and React again </td> 
+      <td> COVID </td> 
   </tr>
   
   <tr>
@@ -117,21 +114,21 @@ Group meetings every Monday at 10:30
   
   <tr>
       <td> 21 </td>
-      <td> Ending basic UI in Nexudus </td> 
+      <td> Ending basic UI locally for Nexudus </td> 
   </tr>
  <tr>
       <td> 22 </td>
-      <td> 15th of August, ending UI in Nexudus  </td> 
+      <td> 15th of August, adding some changes in UI for Nexudus  </td> 
   </tr>
   
   <tr>
       <td> 23 </td>
-      <td> Nexudus is done  </td> 
+      <td> Nexudus is pushed and done  </td> 
   </tr>
   
  <tr>
       <td> 24 </td>
-      <td> Free time because of colleagues' days off || Research for Dart snd Flutter new versions  </td> 
+      <td>  Research for Jetpack Compose UI App Development Toolkit </td> 
   </tr>
   
    <tr>
