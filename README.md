@@ -133,6 +133,6 @@ Group meetings every Monday at 10:30
   
    <tr>
       <td> 25 </td>
-      <td>   </td> 
+      <td>  Middleware part for Company Project </td> 
   </tr>
   
