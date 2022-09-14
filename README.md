@@ -136,3 +136,8 @@ Group meetings every Monday at 10:30
       <td>  Middleware part for Company Project </td> 
   </tr>
   
+  <tr>
+      <td> 26 </td>
+      <td>  Starting Visitors List </td> 
+  </tr>
+  
