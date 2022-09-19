@@ -133,11 +133,16 @@ Group meetings every Monday at 10:30
   
    <tr>
       <td> 25 </td>
-      <td>  Middleware part for Company Project </td> 
+      <td>  Visitors List UI </td> 
   </tr>
   
   <tr>
       <td> 26 </td>
-      <td>  Starting Visitors List </td> 
+      <td>  Some Fixes in Visitors List UI in Nexudus </td> 
+  </tr>
+  
+  <tr>
+      <td> 27 </td>
+      <td>  That's all Folks  </td> 
   </tr>
   
