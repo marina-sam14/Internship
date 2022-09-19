@@ -14,12 +14,11 @@
   </tr>
    <tr>
       <td> 2 </td>
-      <td>Starting Udemy videos about Shopify, Access in Quarter Planning meetings</td>
+      <td>Starting Udemy videos about Shopify </td>
   </tr>
   <tr>
       <td> 3 </td>
-      <td>Research in Unsupervised ML, reading papers and code about Unsupervised Image Classification // </br>
-             Starting learning wordpress using HTML/CSS/JS</td>
+      <td>Research about Unsupervised Image Classification </td>
   </tr>
    <tr>
       <td> 4 </td>
