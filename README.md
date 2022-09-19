@@ -138,6 +138,6 @@
   
   <tr>
       <td> 27 </td>
-      <td>  That's all Folks  </td> 
+      <td>  That's all Folks 🤟</td> 
   </tr>
   
