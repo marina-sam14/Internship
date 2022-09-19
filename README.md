@@ -10,7 +10,7 @@
   </tr>
     <tr>
       <td> 1 </td>
-      <td>Meeting each others, Access to the 7LDevelopment // Intoduction to Shopper Shopify App</td>
+      <td>Meeting each others || Access to the 7LDevelopment </td>
   </tr>
    <tr>
       <td> 2 </td>
