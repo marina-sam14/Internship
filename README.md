@@ -25,31 +25,29 @@ Group meetings every Monday at 10:30
   </tr>
    <tr>
       <td> 4 </td>
-      <td>Project assigned, scanning photos platform using Vue and WordPress </br>
-          Starting Vue training </br>
-          Assigned with Internal Project based on php and wordpress pre-created components </td>
+      <td>Project assigned, scanning photos platform using Vue and WordPress || Starting Vue training </td>
   </tr>
   
   <tr>
       <td> 5 </td>
       <td> Easy week due to Big Week </br>
-      Starting durting my hands with wordpress and local, custom HTML // Research for Tailwuid CSS </td>
+      Starting durting my hands with wordpress and local, custom HTML || Research for Tailwuid CSS </td>
   </tr>
   
   <tr>
       <td> 6 </td>
-      <td>Starting with Flutter // Studying code and watching tutorials </br>
+      <td>Starting with Flutter || Studying code and watching tutorials </br>
       Writing my first programs based on Flutter codelab </td>
   </tr>
   
   <tr>
       <td> 7 </td>
-      <td> End basic apps in Flutter // Flutter Project migration is done </td>
+      <td> End basic apps in Flutter || Flutter Project migration is done </td>
   </tr>
   
   <tr>
       <td> 8 </td>
-      <td> Flutter Migration Done // Reading Medium articles about Flutter 3.0 </td>
+      <td> Flutter Migration Done || Reading Medium articles about Flutter 3.0 </td>
   </tr>
   
   <tr>
@@ -64,7 +62,7 @@ Group meetings every Monday at 10:30
   
   <tr>
       <td> 11 </td>
-      <td>  Testing an app which is migrated to Flutter 3 </td>
+      <td>  Testing migrated apps to Flutter 3 </td>
   </tr>
   
   <tr>
@@ -99,7 +97,7 @@ Group meetings every Monday at 10:30
   
   <tr>
       <td> 18 </td>
-      <td> COVID </td> 
+      <td> Writing first programs in React || Covid </td> 
   </tr>
   
   <tr>
@@ -109,7 +107,7 @@ Group meetings every Monday at 10:30
   
   <tr>
       <td> 20 </td>
-      <td> Nexudus pages for Company // Form </td> 
+      <td> Nexudus pages for Company || Form </td> 
   </tr>
   
   <tr>
