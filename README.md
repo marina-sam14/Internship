@@ -1,7 +1,5 @@
 ### Internship @ [7LInternational](https://7linternational.com)
 
-Group meetings every Monday at 10:30 
-
                
 
 <table>
@@ -57,7 +55,7 @@ Group meetings every Monday at 10:30
   
   <tr>
       <td> 10 </td>
-      <td>  Merging my work in develop branch UwU, meetings for new projects, research on Flutter 3 </td>
+      <td>  Research on Flutter 3 </td>
   </tr>
   
   <tr>
@@ -72,7 +70,7 @@ Group meetings every Monday at 10:30
   
    <tr>
       <td> 13 </td>
-      <td> Whit Monday, Tuesday & Friday: Exams // Training in React  </td>
+      <td> Whit Monday, Tuesday & Friday: Exams || Training in React  </td>
   </tr>
   
   <tr>
@@ -116,7 +114,7 @@ Group meetings every Monday at 10:30
   </tr>
  <tr>
       <td> 22 </td>
-      <td> 15th of August, adding some changes in UI for Nexudus  </td> 
+      <td> 15th of August || adding some changes in UI for Nexudus  </td> 
   </tr>
   
   <tr>
@@ -126,7 +124,7 @@ Group meetings every Monday at 10:30
   
  <tr>
       <td> 24 </td>
-      <td>  Research for Jetpack Compose UI App Development Toolkit </td> 
+      <td>  Research for CNN Pretrained models for Company Project's Blacklist </td> 
   </tr>
   
    <tr>
