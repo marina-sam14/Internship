@@ -113,7 +113,7 @@
   </tr>
  <tr>
       <td> 22 </td>
-      <td> 15th of August || adding some changes in UI for Nexudus  </td> 
+      <td> 15th of August || Adding some changes in UI for Nexudus  </td> 
   </tr>
   
   <tr>
@@ -140,4 +140,7 @@
       <td> 27 </td>
       <td>  That's all Folks 🤟</td> 
   </tr>
+</table>
+
+
   
