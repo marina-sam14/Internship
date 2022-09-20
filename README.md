@@ -84,7 +84,7 @@
   
   <tr>
       <td> 16 </td>
-      <td> Starting with Nexudus // Ending exams </td>
+      <td> Starting with Nexudus || Ending exams </td>
   </tr>
   
   <tr>
